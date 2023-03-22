@@ -4,5 +4,6 @@ public class JavaDemo{
         int b=187;
         int c= a+b;
         System.out.println(c);
+        System.out.println("program end");
     }
 }
